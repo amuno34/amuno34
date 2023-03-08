@@ -1,6 +1,6 @@
 ### Hello I'm Fra 👋
 
-Mainly I work on projects that require sound work. But this doesn't limit me to give contributions when I can.
+As a musician, I mainly work on projects that require sound work. But this doesn't limit me to give contributions when I can.
 
 - I’m currently learning C++ and Ruby
 - Translating English-only projects in Italian
